@@ -15,8 +15,6 @@ At its core, data visualization translates raw data—rows and columns of number
 - **Data Source:** The underlying dataset (Excel, SQL, Cloud Data).
 - **Goal:** Insight, communication, or exploration.
 
----
-
 ## 2. History of Data Visualization
 
 Data visualization is not a modern invention. Its roots can be traced back to before the 17th century, originating with early maps and geometric diagrams.
@@ -31,7 +29,6 @@ Data visualization is not a modern invention. Its roots can be traced back to be
 
 The evolution has moved from static, hand-drawn charts to dynamic, interactive, and real-time dashboards found in tools like Tableau.
 
----
 
 ## 3. Problems with Raw Data
 
@@ -46,8 +43,6 @@ Raw data is often overwhelming. Imagine looking at a spreadsheet with 1 million 
 **Example:**
 *   **Raw Data:** A list of 12 numbers representing monthly sales.
 *   **Visualization:** A line chart showing the curve going up or down. You immediately know if the trend is positive or negative.
-
----
 
 ## 4. Importance of Visualization in Decision-Making
 
@@ -68,3 +63,4 @@ Modern tools like Tableau allow for "drilling down." A decision-maker can start 
 
 ## Summary
 Data Visualization is the bridge between technical data analysis and business decision-making. As we embark on this journey with Tableau, we will learn how to build these bridges effectively, turning raw data into actionable insights.
+
