@@ -7,7 +7,7 @@ This file tracks the daily progress of the Tableau Learning Journey.
 
 - [x] **Feb 01: Day 1** - Introduction to Data Visualization
 - [x] **Feb 02: Day 2** - Overview of Tableau
-- [ ] **Feb 03: Day 3** - Real-World Applications of Tableau
+- [x] **Feb 03: Day 3** - Real-World Applications of Tableau
 - [ ] **Feb 04: Day 4** - Tableau Products Explained
 - [ ] **Feb 05: Day 5** - Tableau Interface and Workspace
 - [ ] **Feb 06: Day 6** - Data Types in Tableau
@@ -34,4 +34,5 @@ This file tracks the daily progress of the Tableau Learning Journey.
 - [ ] **Feb 27: Day 27** - Tableau vs Other Tools
 - [ ] **Feb 28: Day 28** - Real-World Case Study
 - [ ] **Mar 01: Day 29** - Conclusion and Future of Tableau
+
 
