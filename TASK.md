@@ -10,12 +10,12 @@ This file tracks the daily progress of the Tableau Learning Journey.
 - [x] **Feb 03: Day 3** - Real-World Applications of Tableau
 - [x] **Feb 04: Day 4** - Tableau Products Explained
 - [x] **Feb 05: Day 5** - Tableau Interface and Workspace
-- [ ] **Feb 06: Day 6** - Data Types in Tableau
-- [ ] **Feb 07: Day 7** - Dimensions and Measures
-- [ ] **Feb 08: Day 8** - Discrete vs Continuous Data
-- [ ] **Feb 09: Day 9** - Connecting Data to Tableau
-- [ ] **Feb 10: Day 10** - Data Cleaning and Preparation
-- [ ] **Feb 11: Day 11** - Joins and Unions in Tableau
+- [x] **Feb 06: Day 6** - Data Types in Tableau
+- [x] **Feb 07: Day 7** - Dimensions and Measures
+- [x] **Feb 08: Day 8** - Discrete vs Continuous Data
+- [x] **Feb 09: Day 9** - Connecting Data to Tableau
+- [x] **Feb 10: Day 10** - Data Cleaning and Preparation
+- [x] **Feb 11: Day 11** - Joins and Unions in Tableau
 - [ ] **Feb 12: Day 12** - Data Blending
 - [ ] **Feb 13: Day 13** - Sorting, Grouping, and Filtering
 - [ ] **Feb 14: Day 14** - Basic Charts in Tableau
@@ -34,6 +34,7 @@ This file tracks the daily progress of the Tableau Learning Journey.
 - [ ] **Feb 27: Day 27** - Tableau vs Other Tools
 - [ ] **Feb 28: Day 28** - Real-World Case Study
 - [ ] **Mar 01: Day 29** - Conclusion and Future of Tableau
+
 
 
 
